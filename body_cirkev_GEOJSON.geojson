@@ -1,0 +1,11 @@
+{
+"type": "FeatureCollection",
+"name": "body_cirkev_GEOJSON",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": "122145198", "code": 3102, "fclass": "christian_catholic", "name": "Kostel narození Panny Marie", "ORIG_FID": 1 }, "geometry": { "type": "Point", "coordinates": [ 16.891227981710635, 49.588729276968536 ] } },
+{ "type": "Feature", "properties": { "osm_id": "122146213", "code": 3102, "fclass": "christian_catholic", "name": "Kostel sv. Jana Křtitele", "ORIG_FID": 2 }, "geometry": { "type": "Point", "coordinates": [ 16.887378098807563, 49.591854524205971 ] } },
+{ "type": "Feature", "properties": { "osm_id": "203534195", "code": 3102, "fclass": "christian_catholic", "name": "Kaple Panny Marie", "ORIG_FID": 3 }, "geometry": { "type": "Point", "coordinates": [ 16.886305296738914, 49.592616289210994 ] } },
+{ "type": "Feature", "properties": { "osm_id": "667942987", "code": 3102, "fclass": "christian_catholic", "name": "Kaple sv. Libora", "ORIG_FID": 4 }, "geometry": { "type": "Point", "coordinates": [ 16.903539134694167, 49.597296361127135 ] } }
+]
+}

@@ -1,0 +1,17 @@
+{
+"type": "FeatureCollection",
+"name": "kultura_GEOJSON",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "OBJECTID": 1, "osm_id": "274351805", "code": 2724, "fclass": "memorial", "name": "Mohyla" }, "geometry": { "type": "Point", "coordinates": [ 16.889588900288647, 49.595636000024697 ] } },
+{ "type": "Feature", "properties": { "OBJECTID": 6, "osm_id": "1656816238", "code": 2722, "fclass": "museum", "name": "Muzeum sekyrek" }, "geometry": { "type": "Point", "coordinates": [ 16.890841199780244, 49.589036299775117 ] } },
+{ "type": "Feature", "properties": { "OBJECTID": 7, "osm_id": "2135447192", "code": 2904, "fclass": "fountain", "name": "Fontána" }, "geometry": { "type": "Point", "coordinates": [ 16.8897553995543, 49.590352799773925 ] } },
+{ "type": "Feature", "properties": { "OBJECTID": 10, "osm_id": "2135447197", "code": 2725, "fclass": "artwork", "name": "Socha" }, "geometry": { "type": "Point", "coordinates": [ 16.889337100139048, 49.590739000180974 ] } },
+{ "type": "Feature", "properties": { "OBJECTID": 9, "osm_id": "2135447198", "code": 2725, "fclass": "artwork", "name": "Socha" }, "geometry": { "type": "Point", "coordinates": [ 16.887902299663647, 49.593675200240305 ] } },
+{ "type": "Feature", "properties": { "OBJECTID": 29, "osm_id": "2881387626", "code": 2725, "fclass": "artwork", "name": "Socha" }, "geometry": { "type": "Point", "coordinates": [ 16.890703099897259, 49.586292600002579 ] } },
+{ "type": "Feature", "properties": { "OBJECTID": 59, "osm_id": "2961895113", "code": 2701, "fclass": "tourist_info", "name": "Informační centrum" }, "geometry": { "type": "Point", "coordinates": [ 16.891068100676311, 49.589226300132175 ] } },
+{ "type": "Feature", "properties": { "OBJECTID": 60, "osm_id": "2961895114", "code": 2725, "fclass": "artwork", "name": "Socha" }, "geometry": { "type": "Point", "coordinates": [ 16.891432800429197, 49.58930149983793 ] } },
+{ "type": "Feature", "properties": { "OBJECTID": 96, "osm_id": "3198400955", "code": 2725, "fclass": "artwork", "name": "Socha" }, "geometry": { "type": "Point", "coordinates": [ 16.891189799743998, 49.588543000310089 ] } },
+{ "type": "Feature", "properties": { "OBJECTID": 110, "osm_id": "5249181537", "code": 2721, "fclass": "attraction", "name": "Největší sekyra v ČR" }, "geometry": { "type": "Point", "coordinates": [ 16.891350500643519, 49.589029900024201 ] } }
+]
+}
